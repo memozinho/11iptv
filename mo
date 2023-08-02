@@ -1,30 +1,48 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", DiscovereTURBO1
-https://br.embedflix.net/p2p/discoveryturbo/chunks.m3u8?nimblesessionid=22343048&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIzIDQ6Mjg6MDUgUE0maGFzaF92YWx1ZT1PNmw2V2pZcHYvSnkveUtYNDdGNytBPT0mdmFsaWRtaW51dGVzPTkw
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", DiscovereTURBO1
-https://br.embedflix.net/p2p/discoveryturbo/chunks.m3u8?nimblesessionid=22340740&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIzIDQ6MDQ6MzMgUE0maGFzaF92YWx1ZT1yNzBzQ05XTDR2WE52ajdjZGppNmdBPT0mdmFsaWRtaW51dGVzPTkw
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", Premiere Clubes
-https://br.embedflix.net/p2p/prfc1_720p/chunks.m3u8?nimblesessionid=22349128&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIzIDU6Mjg6NDcgUE0maGFzaF92YWx1ZT1FM0JGUFpvQi9qc1E2eStyOHhxaHFBPT0mdmFsaWRtaW51dGVzPTkw
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", GLOBO
-https://br.embedflix.net/p2p/globorj_720p/chunks.m3u8?nimblesessionid=22349009&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIzIDU6Mjc6MTcgUE0maGFzaF92YWx1ZT1zRHBZSm1wVFgrQWFPY1BBYUtFYml3PT0mdmFsaWRtaW51dGVzPTkw
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", ESPN
-https://br.embedflix.net/p2p/spn/chunks.m3u8?nimblesessionid=22348793&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIzIDU6MjQ6MjMgUE0maGFzaF92YWx1ZT1tZEY2anl3VzNuZ2YwVlBUMzNTM3lRPT0mdmFsaWRtaW51dGVzPTkw
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", SPORTTV 1
-https://br.embedflix.net/p2p/sportv_720p/chunks.m3u8?nimblesessionid=22348603&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIzIDU6MjI6MjMgUE0maGFzaF92YWx1ZT13c0oveFJrdU9sbko0Nzd1c2NQaWxnPT0mdmFsaWRtaW51dGVzPTkw
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", AOVIVO1
-https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
+https://stream.embedflix.net/p2p/spn/chunks.m3u8?nimblesessionid=203393&wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMjMgMTE6NTc6MzMgUE0maGFzaF92YWx1ZT1GY2FEWTJiODc1SzhqWDkyNmkza1hnPT0mdmFsaWRtaW51dGVzPTkw
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", AOVIVO2
-https://input.futebolgratis.net:8088/hls/livechannel2.m3u8
+https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", AOVIVO3
+https://hls.embedflix.net/p2p/sportv/chunks.m3u8?nimblesessionid=556383&wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMjMgMTE6NTM6NDEgUE0maGFzaF92YWx1ZT12NmdlbXQ5bWFkOHhQYWZTQUNFeWN3PT0mdmFsaWRtaW51dGVzPTkw
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", (Peru) Bethel TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", (Peru) tvperu TV
+https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
+
+EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", (Peru) SIN TV
+https://inliveserver.com:1936/19004/19004/chunklist_w1763059852.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", Principal 1 (Peru)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", RBC (Peru)
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w1487928802.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Documentário",rtve la1 - ESPANHA
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Documentário",rtve la2- ESPANHA
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Canal-Extremadura.png" group-title="Variedades",Canal Extremadura
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades",TV Galícia Español
+https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Documentário",CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqSFZU24eHhUYol-AQlpD_hDATjVAKgnxogLrMD76KWZiQaEsHAiY46IL3_tyNCNsnVmILq67K4tZHIyC9nHQa7wSQK7ymFVB4ovSsZloCul2_E97Od7hXJJITHR8_PLecTx5ibeBIUsPDJ2XPtQFG3BpS9EK8-ak4W1RHK-0USOGFfUZRpNKYsedv/s355/flimes.jpg" group-title="Variedades",Telemax MEXICO
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w2066710248.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqSFZU24eHhUYol-AQlpD_hDATjVAKgnxogLrMD76KWZiQaEsHAiY46IL3_tyNCNsnVmILq67K4tZHIyC9nHQa7wSQK7ymFVB4ovSsZloCul2_E97Od7hXJJITHR8_PLecTx5ibeBIUsPDJ2XPtQFG3BpS9EK8-ak4W1RHK-0USOGFfUZRpNKYsedv/s355/flimes.jpg" group-title="Variedades",15 - MEXICO
+https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2140252932.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvideonews.png" group-title="Documentário", TVideoNews
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
@@ -37,12 +55,6 @@ https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w864766139.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", AWTV BRASIL
 https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w485607486.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Música",Clips Flash back
-https://streamcdnm7-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1064000.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqSFZU24eHhUYol-AQlpD_hDATjVAKgnxogLrMD76KWZiQaEsHAiY46IL3_tyNCNsnVmILq67K4tZHIyC9nHQa7wSQK7ymFVB4ovSsZloCul2_E97Od7hXJJITHR8_PLecTx5ibeBIUsPDJ2XPtQFG3BpS9EK8-ak4W1RHK-0USOGFfUZRpNKYsedv/s355/flimes.jpg" group-title="Variedades", TV MAX RIO
-https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/chunklist_w611897334.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqSFZU24eHhUYol-AQlpD_hDATjVAKgnxogLrMD76KWZiQaEsHAiY46IL3_tyNCNsnVmILq67K4tZHIyC9nHQa7wSQK7ymFVB4ovSsZloCul2_E97Od7hXJJITHR8_PLecTx5ibeBIUsPDJ2XPtQFG3BpS9EK8-ak4W1RHK-0USOGFfUZRpNKYsedv/s355/flimes.jpg" group-title="Variedades", TV CARIOCA
 https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/chunklist_w522912978.m3u8
@@ -73,9 +85,6 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", TV Clássicos do Cinema (BRASIL)
 https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", Fora Tédio TV (BRASIL)
-https://srv5.zcast.com.br/foratedio/foratedio/chunklist_w145463067.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades",CANAL RICOS
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/chunklist_w1450968796.m3u8
@@ -197,12 +206,6 @@ https://edge-fr6.manoto.click/live_500.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqSFZU24eHhUYol-AQlpD_hDATjVAKgnxogLrMD76KWZiQaEsHAiY46IL3_tyNCNsnVmILq67K4tZHIyC9nHQa7wSQK7ymFVB4ovSsZloCul2_E97Od7hXJJITHR8_PLecTx5ibeBIUsPDJ2XPtQFG3BpS9EK8-ak4W1RHK-0USOGFfUZRpNKYsedv/s355/flimes.jpg" group-title="Variedades",AD Sport 1 Arabic
 https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqSFZU24eHhUYol-AQlpD_hDATjVAKgnxogLrMD76KWZiQaEsHAiY46IL3_tyNCNsnVmILq67K4tZHIyC9nHQa7wSQK7ymFVB4ovSsZloCul2_E97Od7hXJJITHR8_PLecTx5ibeBIUsPDJ2XPtQFG3BpS9EK8-ak4W1RHK-0USOGFfUZRpNKYsedv/s355/flimes.jpg" group-title="Variedades",Telemax MEXICO
-https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w2066710248.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqSFZU24eHhUYol-AQlpD_hDATjVAKgnxogLrMD76KWZiQaEsHAiY46IL3_tyNCNsnVmILq67K4tZHIyC9nHQa7wSQK7ymFVB4ovSsZloCul2_E97Od7hXJJITHR8_PLecTx5ibeBIUsPDJ2XPtQFG3BpS9EK8-ak4W1RHK-0USOGFfUZRpNKYsedv/s355/flimes.jpg" group-title="Variedades",15 - MEXICO
-https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2140252932.m3u8
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", SUPER TV (Italy)
 https://59d7d6f47d7fc.streamlock.net/supertv/supertv/chunklist_w2106401855.m3u8
 
@@ -235,24 +238,6 @@ https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades",MMA TV
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqSFZU24eHhUYol-AQlpD_hDATjVAKgnxogLrMD76KWZiQaEsHAiY46IL3_tyNCNsnVmILq67K4tZHIyC9nHQa7wSQK7ymFVB4ovSsZloCul2_E97Od7hXJJITHR8_PLecTx5ibeBIUsPDJ2XPtQFG3BpS9EK8-ak4W1RHK-0USOGFfUZRpNKYsedv/s355/flimes.jpg" group-title="Variedades", TNT LUTAS
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Documentário",rtve la1 - ESPANHA
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Documentário",rtve la2- ESPANHA
-https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Canal-Extremadura.png" group-title="Variedades",Canal Extremadura
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades",TV Galícia Español
-https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Documentário",CGTN Español
-https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", NHK Japan
 http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
@@ -322,27 +307,6 @@ https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944972315.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades",  GLN TV Cinema (BRASIL)
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1773073702.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades",  Xtreme TV Cinema (BRASIL)
-https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", TV Nova Play  (BRASIL)
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1520504803.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", (Peru) Bethel TV
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", (Peru) tvperu TV
-https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
-
-EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", (Peru) SIN TV
-https://inliveserver.com:1936/19004/19004/chunklist_w1763059852.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", Principal 1 (Peru)
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", RBC (Peru)
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w1487928802.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwgrHFc5qOSfuU2_powtaYwn0xaO_ZcGCkEUXeZZfdqWRNCHNV7Q42Zsx6-5vediO-H7H__dQSOPVedycGkM_fT7gdniQbgU3ls51A-ruBgBxvZf4iOvSp5e0CcaNEZUdJiqVn60tfKo4tMVyItRDSl2Mbf63vk0lDptMpSi23HjbnFHttSDUagCw/s900/unnamed.jpg" group-title="Variedades", TV Novedad de Vida (Peru)
 http://vs8.live.opencaster.com/20100152275/jcpstream/chunklist_w2074689949.m3u8
